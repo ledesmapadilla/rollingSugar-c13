@@ -6,9 +6,9 @@ Practica de maquetado con bootstraop y aprendimos los comandos de git
 
 Mira la demo del proyecto [aqui](https://rollingsugarignacio.netlify.app/)
 
-## Tecnologias utilizadas 🎈
+## Tecnologias utilizadas 🛠
 
--HTML5
+- HTML5
 
 - CSS3
 - [BOOTSTRAP V5.3](https://getbootstrap.com/)
