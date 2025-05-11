@@ -12,3 +12,9 @@ main {
   aspect-ratio: 1/1;
   object-fit: cover;
 }
+
+.alfChocolate {
+  height: 350px;
+  object-fit: cover;
+  width: 100%;
+}
