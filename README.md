@@ -8,7 +8,7 @@ Mira la demo del proyecto [aqui](https://rollingsugarignacio.netlify.app/)
 
 ## Tecnologias utilizadas 🎈
 
--HTML5
+- HTML5
 
 - CSS3
 - [BOOTSTRAP V5.3](https://getbootstrap.com/)
