@@ -13,6 +13,12 @@ main {
   object-fit: cover;
 }
 
+.alfChocolate {
+  height: 350px;
+  object-fit: cover;
+  width: 100%;
+}
+
 .imgAlfChoc {
   object-fit: cover;
   width: 100%;
